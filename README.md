@@ -2,7 +2,7 @@
 Learn from Chinese Doc
 
 ## Description
-A React Todo App with react-redux.
+A React Todo App with react-redux used create-react-app.
 
 ## Run
 
